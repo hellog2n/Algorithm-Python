@@ -1,3 +1,6 @@
+# MARK:- Greedy 알고리즘 큰 수 찾기  (page. 92)
+
+# 책 풀이
 def solution():
     n, m, k = map(int, input().split())
     array = list(map(int, input().split()))
