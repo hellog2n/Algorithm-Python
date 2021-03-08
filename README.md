@@ -1,7 +1,14 @@
 # Algorithm-Python-2021
 
+### 이것이 코딩테스트다 코딩 연습
+* Greedy
+* 구현
 
 
+
+
+
+-------
 ### (1) Repository에 이미 올라와 있는 파일을 지우는 방법.
 Github Repository에 push 후 제거하고 싶은 파일이 있을 경우, `.gitignore`를 변경하여도 반영이 되지 않는다면?
 
