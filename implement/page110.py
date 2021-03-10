@@ -1,5 +1,5 @@
-# MARK:- 구현 상하좌  (page. 110)
-우
+# MARK:- 구현 상하좌우   (page. 110)
+
 #들어오는 문자의 값에 따라 위치 좌표를 리턴하게 한다.
 def switchCase(x):
     global ctr
